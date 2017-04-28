@@ -29,6 +29,9 @@ CardOperate: interface for document identification，please ignore if you are use
 ImageOperate 图片识别接口的封装，使用国际版请忽视这个类
 ImageOperate: image recognition interface package，please ignore if you are use international version
 
+BodyOperate 封装了人体检测和人像扣图的功能
+BodyOperate:HumanBody Detect and HumanBody Segment
+
 HttpRequest 这里面封装了网络请求
 HttpRequest: This is a network request
 
